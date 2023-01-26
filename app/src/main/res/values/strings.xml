@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC Pedruzzi</string>
+    <string name="Mensagem_inicio">Olá Artur Pedruzzi e amigos :)</string>
+    <string name="mensagem_classificacao">Classificação: %1$s!</string>
+</resources>
